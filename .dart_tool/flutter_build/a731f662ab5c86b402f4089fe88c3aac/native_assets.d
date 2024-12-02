@@ -1,0 +1,1 @@
+ /Users/derek/Documents/UDG/4°\ Semestre/Diseño\ de\ aplicaciones\ móviles/Codes/iOSApp/new_app4/.dart_tool/flutter_build/a731f662ab5c86b402f4089fe88c3aac/native_assets.yaml: 
